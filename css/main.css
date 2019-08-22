@@ -1,0 +1,142 @@
+.pageHeader {
+    font-family: cursive;
+    border-style: dotted;
+    border: white;
+    background-color: tan;
+    width: 50%;
+    color:  rgb(65, 40, 4); 
+    text-align: center;
+    margin-left: 28%;
+    margin-bottom: 5%;
+    padding-bottom: 5px;
+
+}
+
+body {
+    background-image: url(https://images.pexels.com/photos/1415555/pexels-photo-1415555.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+}
+
+.list {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    text-align: center;
+    outline-style: double;
+    outline-color: white;
+    outline-width: 4px;
+}
+
+.shop{
+    width: 32%;
+}
+
+.theJam {
+    padding: 10px;
+    border-style: dotted;
+    background-color: tan;
+    color: rgb(65, 40, 4);
+}
+
+.theWell {
+    padding: 10px;
+    border-style: dotted;
+    background-color: tan; 
+    color: rgb(65, 40, 4);
+
+}
+
+.redBicycle {
+    padding: 10px;
+    border-style: dotted;
+    background-color: tan; 
+    color: rgb(65, 40, 4);
+}
+
+.crema {
+    padding: 10px;
+    margin-top: 2%;
+    border-style: dotted;
+    background-color:tan; 
+    color: rgb(65, 40, 4);
+}
+
+.frothyMonkey {
+    padding: 10px;
+    margin-top: 2%;
+    border-style: dotted;
+    background-color:tan; 
+    color: rgb(65, 40, 4);
+}
+
+.roast {
+    padding: 10px;
+    margin-top: 2%;
+    border-style: dotted;
+    background-color: tan; 
+    color: rgb(65, 40, 4);
+}
+
+.bongoJava {
+    padding: 10px;
+    margin-top: 2%;
+    border-style: dotted;
+    background-color: tan; 
+    color: rgb(65, 40, 4);
+}
+
+.flatrock {
+    padding: 10px;
+    margin-top: 2%;
+    border-style: dotted;
+    background-color:tan; 
+    color: rgb(65, 40, 4);
+}
+
+.fido {
+    padding: 10px;
+    margin-top: 2%;
+    border-style: dotted;
+    background-color:tan; 
+    color: rgb(65, 40, 4);
+}
+
+.steadfast {
+    padding: 10px;
+    margin-top: 2%;
+    border-style: dotted;
+    background-color: tan; 
+    color: rgb(65, 40, 4);
+}
+
+.dose {
+    padding: 10px;
+    margin-top: 2%;
+    border-style: dotted;
+    background-color:tan; 
+    color: rgb(65, 40, 4);
+}
+
+.sam {
+    padding: 10px;
+    margin-top: 2%;
+    border-style: dotted;
+    background-color: tan; 
+    color: rgb(65, 40, 4);
+}
+
+.horn {
+    padding: 10px;
+    margin-top: 2%;
+    border-style: dotted;
+    background-color: tan; 
+    color: rgb(65, 40, 4);
+}
+
+.slowHand {
+    padding: 10px;
+    margin-top: 2%;
+    border-style: dotted;
+    background-color: tan; 
+    color: rgb(65, 40, 4);
+}
